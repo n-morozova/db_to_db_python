@@ -1,0 +1,101 @@
+"row_id","order_id","order_date","ship_date","ship_mode","customer_id","customer_name","segment","country","city","state","postal_code","region","product_id","category","sub_category","product_name","sales","quantity","discount","profit"
+1,CA-2024-34188,2024-09-29,2025-05-01,Standard Class,CG-69747,Customer 1,Consumer,United States,City 1,State 1,"69140",East,Off-PROD-3302911,Office Supplies,Appliances,Product B,483.03,5,0.03,2342.70
+2,CA-2024-98883,2024-12-17,2025-05-09,Standard Class,CG-10912,Customer 2,Home Office,United States,City 2,State 2,"83959",West,Off-PROD-4353748,Office Supplies,Chairs,Product D,432.11,2,0.08,795.08
+3,CA-2024-58450,2024-05-30,2025-08-19,Second Class,CG-87990,Customer 3,Consumer,United States,City 3,State 3,"86038",West,Fur-PROD-1254745,Furniture,Storage,Product D,279.60,9,0.01,2491.24
+4,CA-2024-22077,2024-08-22,2025-06-20,Second Class,CG-29866,Customer 4,Home Office,United States,City 4,State 4,"56703",East,Off-PROD-9663815,Office Supplies,Phones,Product D,404.71,5,0.08,1861.67
+5,CA-2024-89826,2024-10-08,2025-11-06,Same Day,CG-56320,Customer 5,Home Office,United States,City 5,State 5,"36707",South,Tec-PROD-7574801,Technology,Tables,Product A,404.20,1,0.05,383.99
+6,CA-2024-16872,2024-03-26,2024-10-27,Second Class,CG-22322,Customer 6,Consumer,United States,City 6,State 6,"82471",Central,Off-PROD-3811704,Office Supplies,Paper,Product C,493.99,6,0.01,2934.30
+7,CA-2024-47601,2024-10-21,2025-01-30,Standard Class,CG-22836,Customer 7,Consumer,United States,City 7,State 7,"91871",Central,Off-PROD-1531831,Office Supplies,Bookcases,Product C,33.23,10,0.28,239.26
+8,CA-2024-90569,2024-12-06,2025-02-18,Same Day,CG-68507,Customer 8,Home Office,United States,City 8,State 8,"55334",South,Off-PROD-4355967,Office Supplies,Chairs,Product C,672.83,1,0.18,551.72
+9,CA-2024-84968,2024-08-24,2024-12-02,First Class,CG-77170,Customer 9,Consumer,United States,City 9,State 9,"57110",Central,Fur-PROD-8133584,Furniture,Phones,Product C,82.83,9,0.18,611.29
+10,CA-2024-63044,2024-10-17,2025-12-26,First Class,CG-10240,Customer 10,Home Office,United States,City 10,State 10,"46960",South,Off-PROD-5058004,Office Supplies,Tables,Product C,506.03,1,0.15,430.13
+11,CA-2024-22689,2024-03-28,2024-05-16,First Class,CG-66324,Customer 11,Corporate,United States,City 11,State 11,"68230",South,Fur-PROD-3538241,Furniture,Chairs,Product D,469.38,9,0.14,3633.00
+12,CA-2024-73016,2024-02-24,2024-08-29,First Class,CG-27637,Customer 12,Consumer,United States,City 12,State 12,"47168",South,Off-PROD-4947533,Office Supplies,Chairs,Product A,135.91,10,0.02,1331.92
+13,CA-2024-96928,2024-01-20,2025-11-16,Same Day,CG-33875,Customer 13,Corporate,United States,City 13,State 13,"93181",West,Off-PROD-5230102,Office Supplies,Appliances,Product B,928.95,5,0.27,3390.67
+14,CA-2024-35266,2024-09-03,2025-04-21,First Class,CG-52235,Customer 14,Home Office,United States,City 14,State 14,"50957",Central,Tec-PROD-8370080,Technology,Phones,Product C,485.50,8,0.28,2796.48
+15,CA-2024-59254,2024-04-17,2025-04-19,Standard Class,CG-81865,Customer 15,Home Office,United States,City 15,State 15,"84543",West,Fur-PROD-8825515,Furniture,Appliances,Product B,589.90,7,0.18,3386.03
+16,CA-2024-22089,2024-10-12,2025-08-27,Standard Class,CG-48214,Customer 16,Home Office,United States,City 16,State 16,"27885",South,Tec-PROD-2079942,Technology,Storage,Product C,485.78,5,0.03,2356.03
+17,CA-2024-51231,2024-09-26,2025-04-01,First Class,CG-40452,Customer 17,Home Office,United States,City 17,State 17,"36696",Central,Fur-PROD-5553087,Furniture,Paper,Product C,861.47,9,0.29,5504.79
+18,CA-2024-92342,2024-12-17,2025-08-01,Same Day,CG-54105,Customer 18,Corporate,United States,City 18,State 18,"74568",East,Off-PROD-6833658,Office Supplies,Paper,Product A,477.11,10,0.15,4055.44
+19,CA-2024-55864,2024-09-07,2025-07-25,First Class,CG-94876,Customer 19,Home Office,United States,City 19,State 19,"28287",South,Tec-PROD-7363948,Technology,Appliances,Product D,595.45,8,0.27,3477.43
+20,CA-2024-49116,2024-02-05,2025-04-05,Standard Class,CG-89296,Customer 20,Consumer,United States,City 20,State 20,"82630",West,Fur-PROD-9879861,Furniture,Appliances,Product C,29.62,3,0.25,66.64
+21,CA-2024-30302,2024-02-13,2024-02-25,First Class,CG-82721,Customer 21,Corporate,United States,City 21,State 21,"78939",East,Tec-PROD-2106117,Technology,Storage,Product B,775.52,6,0.14,4001.68
+22,CA-2024-16688,2024-01-27,2025-02-17,Same Day,CG-60477,Customer 22,Corporate,United States,City 22,State 22,"20412",West,Tec-PROD-1334703,Technology,Chairs,Product C,368.80,4,0.17,1224.42
+23,CA-2024-15256,2024-07-31,2025-08-20,First Class,CG-90528,Customer 23,Corporate,United States,City 23,State 23,"70159",West,Off-PROD-1745015,Office Supplies,Phones,Product C,98.26,8,0.07,731.05
+24,CA-2024-79155,2024-01-11,2025-05-08,First Class,CG-11033,Customer 24,Corporate,United States,City 24,State 24,"28395",West,Off-PROD-1567136,Office Supplies,Appliances,Product C,111.81,2,0.07,207.97
+25,CA-2024-96542,2024-10-22,2025-11-21,Same Day,CG-26485,Customer 25,Corporate,United States,City 25,State 25,"24881",East,Tec-PROD-1853305,Technology,Appliances,Product A,149.96,5,0.21,592.34
+26,CA-2024-44328,2024-01-27,2025-03-03,First Class,CG-72924,Customer 26,Corporate,United States,City 26,State 26,"24701",South,Tec-PROD-4861875,Technology,Bookcases,Product B,778.87,9,0.07,6519.14
+27,CA-2024-88873,2024-11-18,2025-12-06,Same Day,CG-33800,Customer 27,Consumer,United States,City 27,State 27,"70446",South,Off-PROD-4273395,Office Supplies,Bookcases,Product B,740.02,3,0.09,2020.25
+28,CA-2024-64901,2024-01-30,2024-02-07,Same Day,CG-40011,Customer 28,Corporate,United States,City 28,State 28,"87449",Central,Fur-PROD-2331483,Furniture,Tables,Product B,889.24,8,0.10,6402.53
+29,CA-2024-81420,2024-08-21,2025-06-16,First Class,CG-32859,Customer 29,Home Office,United States,City 29,State 29,"41365",South,Off-PROD-4954622,Office Supplies,Storage,Product C,100.51,3,0.23,232.18
+30,CA-2024-88321,2024-05-22,2024-06-08,Same Day,CG-31664,Customer 30,Home Office,United States,City 30,State 30,"38608",South,Tec-PROD-4853087,Technology,Paper,Product A,782.81,3,0.14,2019.65
+31,CA-2024-53872,2024-07-02,2025-06-18,Same Day,CG-99085,Customer 31,Corporate,United States,City 31,State 31,"51641",Central,Fur-PROD-6419686,Furniture,Chairs,Product D,165.42,9,0.00,1488.78
+32,CA-2024-83392,2024-08-25,2025-09-25,First Class,CG-31400,Customer 32,Corporate,United States,City 32,State 32,"19051",South,Tec-PROD-7534368,Technology,Tables,Product A,573.69,7,0.12,3533.93
+33,CA-2024-70819,2024-03-03,2025-12-19,Standard Class,CG-82737,Customer 33,Corporate,United States,City 33,State 33,"40564",West,Fur-PROD-9721440,Furniture,Tables,Product B,88.98,8,0.14,612.18
+34,CA-2024-17919,2024-10-01,2025-02-07,First Class,CG-15878,Customer 34,Home Office,United States,City 34,State 34,"88564",South,Off-PROD-2839903,Office Supplies,Chairs,Product A,100.44,10,0.02,984.31
+35,CA-2024-99354,2024-05-11,2025-11-14,First Class,CG-91629,Customer 35,Consumer,United States,City 35,State 35,"74970",West,Off-PROD-6508825,Office Supplies,Storage,Product D,900.18,9,0.23,6238.25
+36,CA-2024-39986,2024-01-03,2024-05-25,Second Class,CG-46920,Customer 36,Corporate,United States,City 36,State 36,"65813",Central,Fur-PROD-6030038,Furniture,Bookcases,Product D,635.25,6,0.05,3620.92
+37,CA-2024-13150,2024-10-10,2025-05-02,Same Day,CG-31961,Customer 37,Corporate,United States,City 37,State 37,"87983",West,Tec-PROD-8948566,Technology,Appliances,Product B,190.17,3,0.02,559.10
+38,CA-2024-29264,2024-06-03,2024-08-06,Standard Class,CG-39749,Customer 38,Consumer,United States,City 38,State 38,"31377",East,Fur-PROD-9331248,Furniture,Chairs,Product C,850.00,1,0.07,790.50
+39,CA-2024-31019,2024-05-12,2025-05-25,First Class,CG-85540,Customer 39,Corporate,United States,City 39,State 39,"84022",South,Off-PROD-6349556,Office Supplies,Appliances,Product D,602.24,10,0.28,4336.13
+40,CA-2024-63429,2024-07-02,2024-11-14,Same Day,CG-22817,Customer 40,Consumer,United States,City 40,State 40,"88252",West,Fur-PROD-6049880,Furniture,Storage,Product D,244.72,6,0.16,1233.39
+41,CA-2024-76899,2024-01-21,2025-11-16,First Class,CG-96279,Customer 41,Consumer,United States,City 41,State 41,"60387",Central,Tec-PROD-9239602,Technology,Paper,Product C,187.25,6,0.09,1022.38
+42,CA-2024-44008,2024-01-15,2024-12-10,Standard Class,CG-98711,Customer 42,Consumer,United States,City 42,State 42,"86780",Central,Tec-PROD-7518156,Technology,Chairs,Product C,396.43,2,0.15,673.93
+43,CA-2024-96606,2024-03-07,2024-11-05,Second Class,CG-45372,Customer 43,Corporate,United States,City 43,State 43,"88670",South,Tec-PROD-5330718,Technology,Bookcases,Product A,956.96,4,0.12,3368.50
+44,CA-2024-79367,2024-12-15,2025-03-07,Same Day,CG-66396,Customer 44,Home Office,United States,City 44,State 44,"22421",West,Off-PROD-8084973,Office Supplies,Chairs,Product B,181.48,6,0.21,860.22
+45,CA-2024-44090,2024-09-24,2025-09-10,Same Day,CG-96970,Customer 45,Corporate,United States,City 45,State 45,"38381",South,Tec-PROD-4991764,Technology,Phones,Product C,389.43,10,0.04,3738.53
+46,CA-2024-90518,2024-03-24,2025-04-14,Second Class,CG-81126,Customer 46,Home Office,United States,City 46,State 46,"97180",East,Fur-PROD-8794865,Furniture,Tables,Product D,848.87,3,0.08,2342.88
+47,CA-2024-28316,2024-03-10,2024-03-18,First Class,CG-84397,Customer 47,Corporate,United States,City 47,State 47,"75874",Central,Fur-PROD-7761535,Furniture,Paper,Product B,277.53,10,0.16,2331.25
+48,CA-2024-17862,2024-10-23,2024-10-31,Second Class,CG-13968,Customer 48,Home Office,United States,City 48,State 48,"53140",West,Off-PROD-1532425,Office Supplies,Tables,Product B,436.84,1,0.22,340.74
+49,CA-2024-74063,2024-06-26,2025-08-23,First Class,CG-66154,Customer 49,Corporate,United States,City 49,State 49,"19381",South,Fur-PROD-4262636,Furniture,Chairs,Product A,880.20,4,0.08,3239.14
+50,CA-2024-78570,2024-04-30,2025-05-07,Same Day,CG-42566,Customer 50,Corporate,United States,City 50,State 50,"76285",West,Tec-PROD-5366620,Technology,Bookcases,Product B,924.10,9,0.03,8067.39
+51,CA-2024-62376,2024-06-16,2025-05-14,First Class,CG-82962,Customer 51,Consumer,United States,City 51,State 51,"93228",West,Tec-PROD-5069878,Technology,Tables,Product B,362.80,10,0.05,3446.60
+52,CA-2024-78235,2024-09-25,2025-12-07,Standard Class,CG-85686,Customer 52,Consumer,United States,City 52,State 52,"19440",South,Off-PROD-8404853,Office Supplies,Chairs,Product C,507.21,10,0.26,3753.35
+53,CA-2024-10726,2024-05-22,2025-04-11,Standard Class,CG-31932,Customer 53,Home Office,United States,City 53,State 53,"11788",East,Tec-PROD-8308398,Technology,Chairs,Product C,407.63,10,0.02,3994.77
+54,CA-2024-16543,2024-03-28,2024-05-07,Same Day,CG-79441,Customer 54,Home Office,United States,City 54,State 54,"78693",West,Fur-PROD-4822729,Furniture,Chairs,Product D,717.70,5,0.26,2655.49
+55,CA-2024-73697,2024-10-21,2024-12-20,Second Class,CG-70453,Customer 55,Home Office,United States,City 55,State 55,"99199",East,Tec-PROD-2050752,Technology,Storage,Product A,445.77,10,0.07,4145.66
+56,CA-2024-12599,2024-12-09,2025-11-12,First Class,CG-52803,Customer 56,Corporate,United States,City 56,State 56,"53338",South,Fur-PROD-9911901,Furniture,Chairs,Product B,967.22,10,0.25,7254.15
+57,CA-2024-93370,2024-08-07,2025-01-19,Second Class,CG-15565,Customer 57,Corporate,United States,City 57,State 57,"31880",Central,Tec-PROD-4548932,Technology,Tables,Product B,692.16,2,0.22,1079.77
+58,CA-2024-65096,2024-12-27,2025-03-29,Second Class,CG-36043,Customer 58,Home Office,United States,City 58,State 58,"34457",East,Tec-PROD-8548728,Technology,Paper,Product C,514.97,10,0.08,4737.72
+59,CA-2024-46909,2024-12-27,2025-01-14,Same Day,CG-31985,Customer 59,Home Office,United States,City 59,State 59,"55373",West,Off-PROD-9032939,Office Supplies,Paper,Product A,60.16,5,0.04,288.77
+60,CA-2024-71324,2024-05-23,2025-07-17,Same Day,CG-81859,Customer 60,Home Office,United States,City 60,State 60,"50525",South,Off-PROD-8077718,Office Supplies,Phones,Product D,107.59,9,0.24,735.92
+61,CA-2024-11554,2024-10-16,2025-09-01,Second Class,CG-50751,Customer 61,Corporate,United States,City 61,State 61,"83529",Central,Off-PROD-2051507,Office Supplies,Storage,Product B,648.51,7,0.02,4448.78
+62,CA-2024-45567,2024-03-19,2025-07-27,Second Class,CG-26056,Customer 62,Consumer,United States,City 62,State 62,"81300",West,Off-PROD-8793197,Office Supplies,Tables,Product B,962.24,3,0.14,2482.58
+63,CA-2024-56895,2024-08-30,2025-05-30,Standard Class,CG-42753,Customer 63,Consumer,United States,City 63,State 63,"43836",West,Fur-PROD-7061163,Furniture,Paper,Product C,488.82,1,0.03,474.16
+64,CA-2024-33995,2024-10-18,2025-07-27,Same Day,CG-30535,Customer 64,Home Office,United States,City 64,State 64,"73114",Central,Off-PROD-8824643,Office Supplies,Appliances,Product D,272.72,10,0.05,2590.84
+65,CA-2024-68027,2024-10-13,2025-11-09,Second Class,CG-13137,Customer 65,Home Office,United States,City 65,State 65,"74770",East,Tec-PROD-9542753,Technology,Chairs,Product C,519.36,1,0.19,420.68
+66,CA-2024-80136,2024-03-04,2024-04-19,Second Class,CG-40930,Customer 66,Home Office,United States,City 66,State 66,"76989",South,Off-PROD-9364397,Office Supplies,Tables,Product A,494.01,1,0.21,390.27
+67,CA-2024-76112,2024-10-10,2025-11-11,Standard Class,CG-99119,Customer 67,Corporate,United States,City 67,State 67,"73195",East,Tec-PROD-9897127,Technology,Phones,Product C,837.50,5,0.16,3517.50
+68,CA-2024-96724,2024-05-08,2024-12-18,Same Day,CG-54677,Customer 68,Home Office,United States,City 68,State 68,"49333",West,Tec-PROD-6079896,Technology,Tables,Product B,263.04,7,0.05,1749.22
+69,CA-2024-19648,2024-01-03,2024-03-27,First Class,CG-14396,Customer 69,Corporate,United States,City 69,State 69,"93576",Central,Fur-PROD-9066438,Furniture,Bookcases,Product C,211.00,6,0.14,1088.76
+70,CA-2024-86054,2024-07-04,2024-09-23,Same Day,CG-12190,Customer 70,Corporate,United States,City 70,State 70,"41404",West,Off-PROD-7713193,Office Supplies,Paper,Product C,726.85,4,0.23,2238.70
+71,CA-2024-55558,2024-04-04,2025-07-28,Standard Class,CG-91399,Customer 71,Home Office,United States,City 71,State 71,"72022",South,Tec-PROD-9173139,Technology,Bookcases,Product A,575.25,10,0.08,5292.30
+72,CA-2024-89522,2024-12-20,2025-04-26,Standard Class,CG-32843,Customer 72,Consumer,United States,City 72,State 72,"16665",East,Fur-PROD-9993639,Furniture,Bookcases,Product C,620.81,8,0.15,4221.51
+73,CA-2024-35941,2024-09-13,2025-03-03,Second Class,CG-42195,Customer 73,Consumer,United States,City 73,State 73,"31433",Central,Fur-PROD-5677722,Furniture,Paper,Product B,998.89,9,0.02,8810.21
+74,CA-2024-66600,2024-02-24,2024-08-01,Second Class,CG-27483,Customer 74,Consumer,United States,City 74,State 74,"34472",South,Fur-PROD-2077444,Furniture,Phones,Product B,798.33,10,0.21,6306.81
+75,CA-2024-75679,2024-09-19,2024-11-06,Second Class,CG-84748,Customer 75,Consumer,United States,City 75,State 75,"51699",South,Fur-PROD-6164600,Furniture,Chairs,Product D,141.16,5,0.08,649.34
+76,CA-2024-47415,2024-08-04,2025-07-26,First Class,CG-67009,Customer 76,Home Office,United States,City 76,State 76,"50953",South,Off-PROD-3758975,Office Supplies,Chairs,Product D,704.00,7,0.03,4780.16
+77,CA-2024-41088,2024-07-04,2025-01-19,Same Day,CG-49560,Customer 77,Consumer,United States,City 77,State 77,"15101",Central,Off-PROD-9779579,Office Supplies,Tables,Product B,11.83,5,0.03,57.38
+78,CA-2024-50420,2024-04-03,2025-07-03,Second Class,CG-92248,Customer 78,Corporate,United States,City 78,State 78,"95424",South,Off-PROD-4121984,Office Supplies,Chairs,Product D,66.09,8,0.29,375.39
+79,CA-2024-19257,2024-09-27,2024-10-20,Second Class,CG-13345,Customer 79,Consumer,United States,City 79,State 79,"53750",South,Off-PROD-1749764,Office Supplies,Paper,Product B,540.24,7,0.02,3706.05
+80,CA-2024-75149,2024-12-27,2025-12-03,Second Class,CG-77666,Customer 80,Consumer,United States,City 80,State 80,"27563",West,Fur-PROD-8039061,Furniture,Paper,Product D,576.54,3,0.07,1608.55
+81,CA-2024-83707,2024-11-21,2025-07-18,First Class,CG-77498,Customer 81,Corporate,United States,City 81,State 81,"62073",Central,Off-PROD-2255131,Office Supplies,Chairs,Product A,477.55,6,0.11,2550.12
+82,CA-2024-84617,2024-05-30,2024-11-24,First Class,CG-43203,Customer 82,Home Office,United States,City 82,State 82,"14325",West,Tec-PROD-8391102,Technology,Appliances,Product C,949.43,8,0.18,6228.26
+83,CA-2024-47258,2024-03-13,2025-01-19,First Class,CG-86140,Customer 83,Home Office,United States,City 83,State 83,"19301",West,Tec-PROD-1828906,Technology,Paper,Product B,663.22,3,0.09,1810.59
+84,CA-2024-82387,2024-08-22,2024-10-26,Second Class,CG-65504,Customer 84,Consumer,United States,City 84,State 84,"87937",West,Off-PROD-5401061,Office Supplies,Appliances,Product D,854.27,4,0.06,3212.06
+85,CA-2024-90401,2024-02-09,2024-06-01,Second Class,CG-12938,Customer 85,Home Office,United States,City 85,State 85,"82712",West,Off-PROD-1011499,Office Supplies,Chairs,Product D,476.68,3,0.10,1287.04
+86,CA-2024-70036,2024-05-14,2024-05-25,First Class,CG-18860,Customer 86,Consumer,United States,City 86,State 86,"90108",Central,Fur-PROD-3435813,Furniture,Chairs,Product D,117.88,8,0.20,754.43
+87,CA-2024-19612,2024-03-07,2024-08-11,Second Class,CG-68014,Customer 87,Corporate,United States,City 87,State 87,"84268",East,Fur-PROD-8454466,Furniture,Paper,Product D,457.58,6,0.02,2690.57
+88,CA-2024-83544,2024-04-13,2024-05-16,Second Class,CG-72158,Customer 88,Corporate,United States,City 88,State 88,"58733",West,Tec-PROD-6433957,Technology,Phones,Product D,277.34,10,0.13,2412.86
+89,CA-2024-35415,2024-05-25,2025-05-25,Same Day,CG-37516,Customer 89,Corporate,United States,City 89,State 89,"35001",West,Fur-PROD-7081000,Furniture,Bookcases,Product C,768.08,4,0.27,2242.79
+90,CA-2024-53698,2024-08-27,2024-11-22,First Class,CG-15315,Customer 90,Home Office,United States,City 90,State 90,"46822",South,Off-PROD-5371982,Office Supplies,Bookcases,Product C,160.96,6,0.22,753.29
+91,CA-2024-70267,2024-12-06,2025-07-26,Standard Class,CG-44883,Customer 91,Home Office,United States,City 91,State 91,"59754",South,Tec-PROD-3356093,Technology,Appliances,Product D,639.96,1,0.20,511.97
+92,CA-2024-42033,2024-06-29,2024-12-15,First Class,CG-88376,Customer 92,Consumer,United States,City 92,State 92,"22244",South,Off-PROD-5754586,Office Supplies,Chairs,Product C,779.61,5,0.09,3547.23
+93,CA-2024-62158,2024-02-23,2025-08-18,First Class,CG-12685,Customer 93,Consumer,United States,City 93,State 93,"34983",West,Off-PROD-6572703,Office Supplies,Phones,Product D,104.42,7,0.01,723.63
+94,CA-2024-54099,2024-06-07,2024-12-11,Second Class,CG-82602,Customer 94,Corporate,United States,City 94,State 94,"37729",West,Fur-PROD-1330121,Furniture,Appliances,Product D,131.23,10,0.22,1023.59
+95,CA-2024-95522,2024-12-31,2025-04-30,Second Class,CG-10788,Customer 95,Home Office,United States,City 95,State 95,"32147",South,Tec-PROD-9341068,Technology,Storage,Product B,764.77,1,0.12,673.00
+96,CA-2024-78993,2024-12-08,2025-02-15,First Class,CG-85551,Customer 96,Consumer,United States,City 96,State 96,"94824",East,Fur-PROD-4079308,Furniture,Appliances,Product A,275.70,1,0.25,206.77
+97,CA-2024-62555,2024-09-09,2025-09-02,Standard Class,CG-44693,Customer 97,Home Office,United States,City 97,State 97,"52468",South,Off-PROD-2113298,Office Supplies,Paper,Product A,675.21,9,0.23,4679.21
+98,CA-2024-51246,2024-10-21,2025-07-08,Same Day,CG-96305,Customer 98,Home Office,United States,City 98,State 98,"71965",South,Fur-PROD-5403188,Furniture,Phones,Product C,276.93,2,0.08,509.55
+99,CA-2024-12729,2024-08-26,2025-04-20,Second Class,CG-59387,Customer 99,Home Office,United States,City 99,State 99,"91736",Central,Off-PROD-9831736,Office Supplies,Bookcases,Product C,500.27,7,0.15,2976.61
+100,CA-2024-62460,2024-08-25,2024-11-30,First Class,CG-45807,Customer 100,Consumer,United States,City 100,State 100,"81800",West,Off-PROD-9919381,Office Supplies,Bookcases,Product C,348.51,2,0.13,606.41
